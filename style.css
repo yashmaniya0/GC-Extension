@@ -1,0 +1,33 @@
+.mycontainer {
+    background-color: aliceblue;
+    padding: 60px 100px 0 100px;
+}
+
+.mycourse {
+    font-weight: bold;
+    padding-top: 10px;
+    font-size: 24px;
+    font-family: 'Trebuchet MS';
+    margin: 10px;
+    /* background-color: aquamarine; */
+}
+
+.myoverall {
+    font-weight: bold;
+    font-size: 18px;
+    margin: 20px;
+    font-family: 'Trebuchet MS';
+    color: rgb(148, 18, 4);
+}
+
+.myquizzes {
+    /* font-weight: bold; */
+    font-size: 14px;
+    margin: 20px;
+    font-family: 'Trebuchet MS';
+    color: rgb(62, 7, 129);
+}
+
+#hr_line {
+    background-color: rgb(62, 7, 129);
+}

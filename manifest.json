@@ -1,0 +1,17 @@
+{
+    "name": "GC Calculator",
+    "version": "0.1.2",
+    "manifest_version": 3,
+    "permissions": ["activeTab"],
+    "icons": {
+        "36": "/icons/gc36.png",
+        "48": "/icons/gc48.png",
+        "72": "/icons/gc72.png",
+        "150": "/icons/gc150.png"
+    },
+    "content_scripts": [{
+        "matches": ["https://classroom.google.com/*", "https://classroom.google.com/u/0/a/not-turned-in/all"],
+        "js": ["/script.js"],
+        "css": ["style.css"]
+    }]
+}
