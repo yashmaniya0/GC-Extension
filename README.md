@@ -9,9 +9,10 @@ An extension to calculate total marks obtained and overall percentage for each o
 - Clone this repo using `git clone https://github.com/yashmaniya0/GC-Marks-Calculator.git`
 - Go to Chrome Extensions (🧩) -> Manage Extensions
 - Click on Load Unpacked and set the path to root directory of this extension (cloned repo directory)
-- Following extension will appear. Enable extension if not enabled already. \
+- Following extension will appear. Enable extension if not enabled already.
 <img src="./icons/ss1.png" align="center" style="width: 60%" />
-- Complete following settings from Google Extensions: \
+
+- Complete following settings from Google Extensions:
 <img src="./icons/ss2.png" align="center" style="width: 60%" />
 
 
